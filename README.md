@@ -1,6 +1,6 @@
 # Netlify Build Plugin: Testing
 
-this is where i test netlify build plugins ⚡️
+This is where i test netlify build plugins ⚡️
 
 > NOTE: [Netlify Build Plugins](https://docs.netlify.com/configure-builds/plugins/?utm_source=github&utm_medium=netlify-plugin-gatsby-cache-jl&utm_campaign=devex) are in beta.
 
