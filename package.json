@@ -1,0 +1,20 @@
+{
+  "name": "netlify-plugin-testing",
+  "version": "1.0.0",
+  "description": "netlify build plugins testing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anton1337/netlify-plugin-testing.git"
+  },
+  "keywords": [
+    "netlify",
+    "netlify-plugin"
+  ],
+  "author": "Anton Andrésen <anton.andresen@hotmail.com> (https://anton.best)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anton1337/netlify-plugin-testing/issues"
+  },
+  "homepage": "https://github.com/Anton1337/netlify-plugin-testing#readme"
+}
